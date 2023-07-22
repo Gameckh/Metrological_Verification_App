@@ -5,6 +5,9 @@
 
 <img src="./pics/000.jpg" width="50%">](https://videos.grapecity.com.cn/SpreadJS/online/计量检定.mp4)
 
+[![Watch the video](./pics/000.jpg)](https://videos.grapecity.com.cn/SpreadJS/online/计量检定.mp4)
+
+
 [Official page: Metrological Verification](https://www.grapecity.com.cn/developer/spreadjs/industry/measure)
 
 ### Function Screenshots
