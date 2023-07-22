@@ -1,12 +1,8 @@
 ## Metrological_Verification
 
 ### Operation vedio
-<iframe src="//videos.grapecity.com.cn/SpreadJS/online/计量检定.mp4" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"  width="700px" height="400px"> </iframe>
-
-<img src="./pics/000.jpg" width="50%">](https://videos.grapecity.com.cn/SpreadJS/online/计量检定.mp4)
 
 [![Watch the video](./pics/000.jpg)](https://videos.grapecity.com.cn/SpreadJS/online/计量检定.mp4)
-
 
 [Official page: Metrological Verification](https://www.grapecity.com.cn/developer/spreadjs/industry/measure)
 
