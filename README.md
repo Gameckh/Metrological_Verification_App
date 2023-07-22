@@ -3,33 +3,35 @@
 ### Operation vedio
 <iframe src="//videos.grapecity.com.cn/SpreadJS/online/计量检定.mp4" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"  width="700px" height="400px"> </iframe>
 
+<img src="./pics/000.jpg" width="50%">](https://videos.grapecity.com.cn/SpreadJS/online/计量检定.mp4)
+
 [Official page: Metrological Verification](https://www.grapecity.com.cn/developer/spreadjs/industry/measure)
 
 ### Function Screenshots
 
 1. Excel-like Report Template Design
 
-![](pics\001.png)
+![](./pics/001.png)
 
 2. Template Printing Config
 
-![](pics\002.png)
+![](./pics/002.png)
 
 3. Permissions Config
 
-![](pics\003.png)
+![](./pics/003.png)
 
 4. Customization Symbols
 
-![](pics\004.png)
+![](./pics/004.png)
 
 5. Printing & PDF Previewing
 
-![](pics\005.png)
+![](./pics/005.png)
 
 6. Batch Printing & PDF Supporting
 
-![](pics\006.png)
+![](./pics/006.png)
 
 ### Metrological_Verification_FrontEnd environment
 
