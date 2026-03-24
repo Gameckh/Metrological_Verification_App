@@ -19,10 +19,10 @@
 <script>
 // @ is an alias to /src
 
-import "@grapecity/spread-sheets/styles/gc.spread.sheets.excel2013white.css";
-import * as GC from "@grapecity/spread-sheets";
-import "@grapecity/spread-sheets-resources-zh";
-import "@grapecity/spread-sheets-vue";
+import "@grapecity-software/spread-sheets/styles/gc.spread.sheets.excel2013white.css";
+import * as GC from "@grapecity-software/spread-sheets";
+import "@grapecity-software/spread-sheets-resources-zh";
+import "@grapecity-software/spread-sheets-vue";
 
 GC.Spread.Common.CultureManager.culture("zh-cn");
 import HttpUtils from '../../utils/httpUtils'

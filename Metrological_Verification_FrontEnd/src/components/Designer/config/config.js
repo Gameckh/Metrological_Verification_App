@@ -1,6 +1,6 @@
-import * as GC from "@grapecity/spread-sheets";
-import "@grapecity/spread-sheets-designer-resources-cn";
-import "@grapecity/spread-sheets-designer";
+import * as GC from "@grapecity-software/spread-sheets";
+import "@grapecity-software/spread-sheets-designer-resources-cn";
+import "@grapecity-software/spread-sheets-designer";
 
 import LayoutConfig from "./layout/config"
 import FontIconConfig from "./insert/fontIcon"

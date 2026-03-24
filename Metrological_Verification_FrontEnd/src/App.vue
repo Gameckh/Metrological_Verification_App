@@ -199,8 +199,6 @@ body > .el-container {
   float: left;
   border: 0 1 0 0;
   border-right: #ffffff;
-
-  background: url("./assets/logo.svg") no-repeat;
 }
 img {
   border: 0;

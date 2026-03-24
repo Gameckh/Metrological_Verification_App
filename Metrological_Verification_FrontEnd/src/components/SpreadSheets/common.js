@@ -1,5 +1,5 @@
 import {getImageBase64} from '../../utils/common'
-import * as GC from "@grapecity/spread-sheets";
+import * as GC from "@grapecity-software/spread-sheets";
 
 
 function processLock(sheet, rule) {

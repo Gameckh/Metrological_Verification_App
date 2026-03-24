@@ -55,8 +55,8 @@
   <el-form :model="newTaskData">
     <el-form-item label="检测单位" label-width="120px">
       <el-select v-model="newTaskData.testCompany" placeholder="请选择检测单位">
-        <el-option label="西安葡萄城第一检测公司" value="西安葡萄城第一检测公司"></el-option>
-        <el-option label="西安葡萄城第二检测公司" value="西安葡萄城第二检测公司"></el-option>
+        <el-option label="西安第一检测公司" value="西安第一检测公司"></el-option>
+        <el-option label="西安第二检测公司" value="西安第二检测公司"></el-option>
       </el-select>
     </el-form-item>
     <el-form-item label="实验名称" label-width="120px">

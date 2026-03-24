@@ -1,4 +1,4 @@
-import * as GC from '@grapecity/spread-sheets'
+import * as GC from '@grapecity-software/spread-sheets'
 
 var fontIconCammands = {
     "setFontIcon": {
